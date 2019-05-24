@@ -2,6 +2,7 @@ package com.geely.design.pattern.creational.builder;
 
 /**
  * Created by geely
+ * 课程
  */
 public class Course {
     private String courseName;

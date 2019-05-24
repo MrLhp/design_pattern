@@ -2,6 +2,7 @@ package com.geely.design.pattern.creational.builder;
 
 /**
  * Created by geely
+ * 课程抽象类
  */
 public abstract class CourseBuilder {
 
