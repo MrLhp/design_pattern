@@ -11,7 +11,6 @@ public class CourseCatalog extends CatalogComponent {
     private String name;
     private Integer level;
 
-
     public CourseCatalog(String name,Integer level) {
         this.name = name;
         this.level = level;
